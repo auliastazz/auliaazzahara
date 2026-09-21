@@ -1,4 +1,3 @@
-# my-first-repository
 # Hi there, I'm Aulia! 👋
 
 ### Civil Engineering Master's Graduate | Research Consultant | Remote Work Enthusiast
